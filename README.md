@@ -1,4 +1,4 @@
-### Hi there 👋
+### Guten Tag 👋
 
 <!--
 **HanWang25/HanWang25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🐧 I'm currently doing an internship at Tencent
+- 📚 I'm currently studying for an undergraduate degree in SJTU
